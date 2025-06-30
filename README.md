@@ -16,8 +16,7 @@ This project is an Excel dashboard designed to monitor and analyze dengue cases 
 ## 📁 Files Included
 - Dengue_Surveillance_Dashboard.xlsx – Excel dashboard with all visuals
 - <img width="769" alt="Dengue Surveillance Dashboard" src="https://github.com/user-attachments/assets/ca76ad9f-9655-49ac-9a88-da09859b69c2" />
-
-   Preview image of the dashboard layout
+ Preview image of the dashboard layout
 
 ---
 
